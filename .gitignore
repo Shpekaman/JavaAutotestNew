@@ -1,0 +1,18 @@
+# Сборочные результаты Gradle
+build/
+.gradle/
+
+# IntelliJ IDEA
+*.iml
+*.ipr
+*.iws
+out/
+
+# Allure-отчёты
+allure-results/
+allure-report/
+
+# Служебное
+*.log
+.DS_Store
+Thumbs.db

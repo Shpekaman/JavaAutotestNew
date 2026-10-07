@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="916d2528-84d4-4dc0-96e5-27ba6d7a446e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-tests/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-tests/src/test/java/org/example/api/AllureApiSetup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-tests/src/test/java/org/example/api/RestApiBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-tests/src/test/java/org/example/api/asserts/ApiAssert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-tests/src/test/java/org/example/api/basic/AuthApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-tests/src/test/java/org/example/api/basic/GoodsApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-tests/src/test/java/org/example/api/tests/ApiTestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-tests/src/test/java/org/example/api/tests/AuthApiTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-tests/src/test/java/org/example/api/tests/GoodsAddApiTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-tests/src/test/java/org/example/api/tests/GoodsDeleteApiTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-tests/src/test/java/org/example/api/tests/GoodsGetApiTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-tests/src/test/java/org/example/api/tests/GoodsListApiTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-tests/src/test/java/org/example/api/tests/GoodsPatchApiTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/org/example/common/config/Config.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/org/example/common/models/Goods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/org/example/common/utils/UniqueData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/resources/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui-tests/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui-tests/src/test/java/org/example/ui/AllureUiSetup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui-tests/src/test/java/org/example/ui/asserts/LoginPageAssert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui-tests/src/test/java/org/example/ui/asserts/MainPageAssert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui-tests/src/test/java/org/example/ui/page/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui-tests/src/test/java/org/example/ui/page/MainPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui-tests/src/test/java/org/example/ui/support/UiGoodsFixture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui-tests/src/test/java/org/example/ui/tests/UiTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="JavaAutotestNew" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleScriptDefinitionsStorage" workingDir="$PROJECT_DIR$" gradleHome="C:\Users\Michael\.gradle\wrapper\dists\gradle-8.5-bin\5t9huq95ubn472n8rpzujfbqh\gradle-8.5" javaHome="C:\Program Files\Eclipse Adoptium\jdk-11.0.29.7-hotspot" gradleVersion="8.5" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="3KEt5WlIH0RZYltRhNG3nROMyaG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Michael/IdeaProjects/JavaAutotestNew",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "File.Encoding"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="916d2528-84d4-4dc0-96e5-27ba6d7a446e" name="Changes" comment="" />
+      <created>1791134371859</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1791134371859</updated>
+    </task>
+    <servers />
+  </component>
+</project>
